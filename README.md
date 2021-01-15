@@ -1,6 +1,14 @@
-Joined Github **6** years ago.
+<table border="0">
+<tr>
+<td>Joined Github **6** years ago.</td>
+<td>
+<img src="https://i.gifer.com/889R.gif" />
+</b>
+</td>
+</tr>
+</table>
 
-Since then I pushed **311** commits, opened **0** issues, submitted **67** pull requests, received **3** stars across **33** personal projects and contributed to **1** public repositories.
+   Since then I pushed **312** commits, opened **0** issues, submitted **67** pull requests, received **3** stars across **33** personal projects and contributed to **1** public repositories.
 
 Most used languages across my projects:
 
