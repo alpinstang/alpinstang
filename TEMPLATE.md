@@ -1,6 +1,14 @@
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+<table border="0">
+<tr>
+<td>Joined Github **{{ ACCOUNT_AGE }}** years ago.</td>
+<td>
+<img src="https://i.gifer.com/889R.gif" />
+</b>
+</td>
+</tr>
+</table>
 
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+   Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Most used languages across my projects:
 
