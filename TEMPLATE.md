@@ -4,7 +4,8 @@
 
 </td>
 <td vlign="top" align="middle" width="200">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" />
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" />
 <img src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
 </td>
