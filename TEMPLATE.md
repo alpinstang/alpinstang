@@ -11,7 +11,7 @@
 <img src="https://forthebadge.com/images/badges/compatibility-ie-6.svg" />
 </td>
 
-<td vlign="top" align="right" width="350"><img src="https://media.giphy.com/media/acj7QJGgBBeUg/source.gif"></td></tr></table>
+<td vlign="top" align="right" width="200"><img src="https://media.giphy.com/media/acj7QJGgBBeUg/source.gif"></td></tr></table>
 
 I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
