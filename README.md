@@ -4,15 +4,16 @@
 
 </td>
 <td vlign="top" align="middle" width="200">
-<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" />
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" />
+<img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg" />
 <img src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
+<img src="https://forthebadge.com/images/badges/compatibility-ie-6.svg" />
 </td>
 
 <td vlign="top" align="right" width="350"><img src="https://media.giphy.com/media/acj7QJGgBBeUg/source.gif"></td></tr></table>
 
-I have pushed **421** commits, opened **11** issues, submitted **93** pull requests, received **3** stars across **39** personal projects and contributed to **1** public repositories.
+I have pushed **422** commits, opened **11** issues, submitted **93** pull requests, received **3** stars across **39** personal projects and contributed to **1** public repositories.
 
 Most used languages across my projects:
 
