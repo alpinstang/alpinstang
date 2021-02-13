@@ -1,4 +1,4 @@
-<table><tr><td vlign="top" align="left" width="350">
+<table><tr><td vlign="top" align="left" width="200">
    A Full Stack Developer with a particular affinity for the React ecosystem. One-man game studio.
    I Joined Github **{{ ACCOUNT_AGE }}** years ago. 
 
