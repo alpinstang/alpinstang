@@ -1,6 +1,6 @@
 <table><tr><td vlign="top" align="left" width="200">
    A Full Stack Developer with a particular affinity for the React ecosystem. One-man game studio.
-   I Joined Github **{{ ACCOUNT_AGE }}** years ago. 
+   I Joined Github <b>{{ ACCOUNT_AGE }}</b> years ago. 
 
 </td>
 <td vlign="top" align="middle" width="200">
