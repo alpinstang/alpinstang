@@ -1,6 +1,6 @@
 <table><tr><td vlign="top" align="left" width="200">
    A Full Stack Developer with a particular affinity for the React ecosystem. One-man game studio.
-   I Joined Github **6** years ago. 
+   I Joined Github <b>6</b> years ago. 
 
 </td>
 <td vlign="top" align="middle" width="200">
@@ -13,7 +13,7 @@
 
 <td vlign="top" align="right" width="200"><img src="https://media.giphy.com/media/acj7QJGgBBeUg/source.gif"></td></tr></table>
 
-I have pushed **535** commits, opened **12** issues, submitted **122** pull requests, received **4** stars across **48** personal projects and contributed to **6** public repositories.
+I have pushed **536** commits, opened **12** issues, submitted **122** pull requests, received **4** stars across **48** personal projects and contributed to **6** public repositories.
 
 Most used languages across my projects:
 
