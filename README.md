@@ -13,11 +13,11 @@
 
 <td vlign="top" align="right" width="200"><img src="https://media.giphy.com/media/acj7QJGgBBeUg/source.gif"></td></tr></table>
 
-I have pushed **658** commits, opened **20** issues, submitted **141** pull requests, received **5** stars across **51** personal projects and contributed to **9** public repositories.
+I have pushed **659** commits, opened **20** issues, submitted **141** pull requests, received **5** stars across **51** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B156.7%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B156.8%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B126.6%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B17.3%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B12.9%25)
