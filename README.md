@@ -13,7 +13,7 @@
 
 <td vlign="top" align="right" width="200"><img src="https://media.giphy.com/media/acj7QJGgBBeUg/source.gif"></td></tr></table>
 
-I have pushed **659** commits, opened **20** issues, submitted **141** pull requests, received **5** stars across **51** personal projects and contributed to **9** public repositories.
+I have pushed **659** commits, opened **20** issues, submitted **140** pull requests, received **5** stars across **51** personal projects and contributed to **8** public repositories.
 
 Most used languages across my projects:
 
